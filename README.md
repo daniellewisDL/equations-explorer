@@ -10,4 +10,4 @@ Explore some of the equations that have changed the world
 [Equations explorer - Sharing for Streamlit](https://share.streamlit.io/daniellewisdl/equations-explorer/main/app.py)
 
 # Show me
-![Equations explorer](https://github.com/daniellewisDL/equations-explorer/blob/master/e-e.png)
+![Equations explorer](https://github.com/daniellewisDL/equations-explorer/blob/main/e-e.png)
