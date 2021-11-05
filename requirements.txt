@@ -1,4 +1,4 @@
 plotly==4.9.0
 streamlit==0.86.0
-scipy==1.5.2
+scipy
 emoji==1.4.2
